@@ -28,20 +28,11 @@
 
 
 
-
-## Submenú 1 :
-![Screenshot_20220418-110901_Termux](https://user-images.githubusercontent.com/81049859/163829698-1f7ca1c0-7eeb-4d7c-b1ef-ef456e15a01d.png)
-
-
-
-## Submenú 2 : 
-![Screenshot_20220418-110917_Termux](https://user-images.githubusercontent.com/81049859/163829732-f8481531-f0e5-4442-b5ec-135623292c0e.png)
-
-
-
-## Submenú 3 :
-![Screenshot_20220418-110934_Termux](https://user-images.githubusercontent.com/81049859/163829788-ecaaf06c-0bc6-4da1-9b4f-08af6d1e9675.png)
-
+|Submenú 1|Submenú 2|
+|----------|----------|
+|![Screenshot_20220522-171215_Termux](https://user-images.githubusercontent.com/81049859/169716189-85f01b3b-d6c2-4b76-a191-02dd6a8fa7d9.png)|![Screenshot_20220522-171230_Termux](https://user-images.githubusercontent.com/81049859/169716194-eba16f57-420d-4b07-8a8e-7002bee54b10.png)|
+|Submenú 3|Submenú 4|
+|![Screenshot_20220522-171244_Termux](https://user-images.githubusercontent.com/81049859/169716198-40cad0e9-30a1-4b56-8f36-15e90afef6ba.png)|![Screenshot_20220522-171301_Termux](https://user-images.githubusercontent.com/81049859/169716207-3b5d573b-1edb-466f-9e60-13a5ed968ed2.png)|
 
 
 
