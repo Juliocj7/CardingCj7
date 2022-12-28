@@ -27,14 +27,12 @@
 
 |Submenú 1|Submenú 2|
 |----------|----------|
-|![Screenshot_20221228-140459_Termux](https://user-images.githubusercontent.com/81049859/209854687-534dca6e-3d57-4c95-8be7-799accd7d4ce.png)|
-![Screenshot_20221228-140515_Termux](https://user-images.githubusercontent.com/81049859/209854723-a410398c-b42c-4ec6-93fb-1d498d63b0d9.png)|
+|![Screenshot_20221228-140459_Termux](https://user-images.githubusercontent.com/81049859/209854687-534dca6e-3d57-4c95-8be7-799accd7d4ce.png)|![Screenshot_20221228-140515_Termux](https://user-images.githubusercontent.com/81049859/209854723-a410398c-b42c-4ec6-93fb-1d498d63b0d9.png)|
 
 
 |Submenú 3|Submenú 4|
 |----------|----------|
-|![Screenshot_20221228-140532_Termux](https://user-images.githubusercontent.com/81049859/209854752-2764f9b7-4e3b-4066-8b57-6e5fe3748d75.png)|
-![Screenshot_20221228-140545_Termux](https://user-images.githubusercontent.com/81049859/209854778-27992d41-240e-46d6-afbb-dae33254957c.png)|
+|![Screenshot_20221228-140532_Termux](https://user-images.githubusercontent.com/81049859/209854752-2764f9b7-4e3b-4066-8b57-6e5fe3748d75.png)|![Screenshot_20221228-140545_Termux](https://user-images.githubusercontent.com/81049859/209854778-27992d41-240e-46d6-afbb-dae33254957c.png)|
 
 ## CardingCj7 :
 * Crea **suscripciones** en distintas plataformas de streaming correctamente y sin errores.
