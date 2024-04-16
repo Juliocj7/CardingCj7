@@ -53,9 +53,11 @@ ______________________________________________________
 |----------|----------|
 |![1000328498](https://github.com/Juliocj7/CardingCj7/assets/81049859/3d9d3407-490b-40d2-bf05-8eb11067a427)|![1000328499](https://github.com/Juliocj7/CardingCj7/assets/81049859/cc73da3c-8674-4306-aa83-0bfdedaa5d45)|
 
+> [!IMPORTANT]
+> > ¡ Negocio redondo al alcance de tus manos xD !
+
 ## CardingCj7 :
 * Crea **suscripciones** en distintas plataformas de streaming correctamente y sin errores.
-* **Negocio** redondo al alcance de tus manos xD.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
@@ -63,17 +65,18 @@ ______________________________________________________
 > [!NOTE]  
 > Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
-```bash
-  yes|apt update && apt upgrade
+###### 01. Actualizar paquetes
+```shell
+yes|{apt update && apt upgrade}
 ```
-
-* ` git clone https://github.com/Juliocj7/CardingCj7 `
-
-* ` cd CardingCj7 `
-
-* ` chmod +x * `
-
-* ` ./CardingCj7 `
+###### 02. Clonar repositorio
+```shell
+gh repo clone Juliocj7/CardingCj7
+```
+###### 03. Ahora disfruta xD
+```shell
+cd CardingCj7 && chmod +x * && ./CardingCj7
+```
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
